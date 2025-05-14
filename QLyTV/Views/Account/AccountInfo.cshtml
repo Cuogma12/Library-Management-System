@@ -1,0 +1,78 @@
+﻿<h2>Thông tin tài khoản</h2>
+<div>
+    <p><strong>Id:</strong> @Model.UserInfo.Id</p>
+    <p><strong>Tên:</strong> @Model.UserInfo.Name</p>
+    <p><strong>Email:</strong> @Model.UserInfo.Email</p>
+    <p><strong>Số điện thoại:</strong> @Model.UserInfo.PhoneNumber</p>
+    <p><strong>Địa chỉ:</strong> @Model.UserInfo.Address</p>
+    <p><strong>CCCD:</strong> @Model.UserInfo.Identification</p>
+</div>
+
+<button id="editInfoButton" class="btn btn-primary">Sửa Thông Tin</button>
+<hr style="border: 1px solid #4CAF50; margin-top: 20px; margin-bottom: 20px;" />
+<!-- Form chỉnh sửa thông tin -->
+<div id="editInfoForm" style="display:none; margin-top:20px;">
+    <form id="editAccountForm" method="post" action="@Url.Action("EditAccount", "Account")">
+        <input type="hidden" name="Id" value="@Model.UserInfo.Id" />
+        <div>
+            <label for="Name">Tên:</label>
+            <input type="text" id="Name" name="Name" value="@Model.UserInfo.Name" required />
+        </div>
+        <div>
+            <label for="Email">Email:</label>
+            <input type="email" id="Email" name="Email" value="@Model.UserInfo.Email" required />
+        </div>
+        <div>
+            <label for="PhoneNumber">Số điện thoại:</label>
+            <input type="text" id="PhoneNumber" name="PhoneNumber" value="@Model.UserInfo.PhoneNumber" required />
+        </div>
+        <div>
+            <label for="Address">Địa chỉ:</label>
+            <input type="text" id="Address" name="Address" value="@Model.UserInfo.Address" required />
+        </div>
+        <div>
+            <label for="Identification">CCCD:</label>
+            <input type="text" id="Identification" name="Identification" value="@Model.UserInfo.Identification" required />
+        </div>
+        <div class="form-group">
+            <label for="Password">Mật khẩu (nếu muốn thay đổi):</label>
+            <input style="width:30%" type="password" id="Password" name="Password" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label for="repassword">Xác nhận mật khẩu:</label>
+            <input  style="width:30%" type="password" id="repassword" name="repassword" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Lưu</button>
+    </form>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        // Hiển thị form chỉnh sửa khi nhấn nút "Sửa Thông Tin"
+        $("#editInfoButton").click(function () {
+            $("#editInfoForm").show();
+            $(this).hide();
+        });
+
+        // Hủy chỉnh sửa
+        $("#cancelEditButton").click(function () {
+            $("#editInfoForm").hide();
+            $("#editInfoButton").show();
+        });
+    });
+</script>
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}

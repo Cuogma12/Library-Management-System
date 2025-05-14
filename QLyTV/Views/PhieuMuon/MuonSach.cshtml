@@ -1,0 +1,72 @@
+﻿@model QLyTV.Models.PhieuMuon
+@{
+    var sachList = ViewBag.SachList as IEnumerable<QLyTV.Models.Sach>;
+}
+
+<h2>Mượn sách</h2>
+
+<form id="addPhieuMuonForm" method="post" action="@Url.Action("AddPhieuMuon", "PhieuMuon")">
+    @if (Session["Role"] != null &&
+(Session["Role"].ToString() == QLyTV.Constants.RoleConstants.QuanLy ||
+Session["Role"].ToString() == QLyTV.Constants.RoleConstants.ThuThu))
+    {<div>
+            <label for="MaThuThu">Mã Thủ Thư</label>
+            <input type="number" id="MaThuThu" name="MaThuThu" value="@Model?.MaThuThu" required />
+        </div>}
+
+    <div>
+        <label for="MaDocGia">Mã Độc Giả</label>
+        <input type="number" id="MaDocGia" name="MaDocGia" value="@Model?.MaDocGia" required />
+    </div>
+    <div>
+        <label for="MaSach">Tên Sách</label>
+        <select id="MaSach" name="MaSach" class="form-control" required>
+            <option value="">Chọn sách</option>
+            @if (sachList != null)
+            {
+                foreach (var sach in sachList)
+                {
+                    <option value="@sach.MaSach">@sach.TenSach</option>
+                }
+            }
+            else
+            {
+                <option value="">Không có sách để hiển thị</option>
+            }
+        </select>
+    </div>
+    <div>
+        <label for="NgayMuon">Ngày Mượn</label>
+        <input type="date" id="NgayMuon" name="NgayMuon" value="@Model?.NgayMuon.ToString(" yyyy-MM-dd")" required />
+    </div>
+    <div>
+        <label for="NgayTraDuKien">Ngày Trả Dự Kiến</label>
+        <input type="date" id="NgayTraDuKien" name="NgayTraDuKien" value="@Model?.NgayTraDuKien?.ToString(" yyyy-MM-dd")" />
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu Phiếu Mượn</button>
+    <a href="@Url.Action("Index", "PhieuMuon")" class="btn btn-secondary">Hủy</a>
+</form>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#addPhieuMuonForm").submit(function (e) {
+            e.preventDefault();
+
+            var formData = $(this).serialize();
+
+            $.post("@Url.Action("AddPhieuMuon", "PhieuMuon")", formData, function (response) {
+                if (response.success) {
+                    alert(response.message);
+                    window.location.href = "@Url.Action("Index", "PhieuMuon")";
+                } else {
+                    alert(response.message);
+                }
+            });
+        });
+    });
+</script>
+
+@*<p>
+        <a href="/PhieuMuon/Index" class="btn btn-secondary">Quay Lại Danh Sách</a>
+    </p>*@

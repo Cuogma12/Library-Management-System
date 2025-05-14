@@ -1,0 +1,78 @@
+﻿@{
+    ViewBag.Title = "Yêu cầu & Mượn sách";
+    var sachList = ViewBag.SachList as List<QLyTV.Models.Sach>;
+    var chiTietMuon = ViewBag.ChiTietMuon as List<QLyTV.Models.Sach>;
+    var today = DateTime.Now.ToString("yyyy-MM-dd");
+}
+
+<h2>Yêu cầu và Mượn sách</h2>
+
+<div class="row">
+    <!-- Form Yêu cầu mượn sách -->
+    <div class="col-md-6">
+        <h3>Gửi Yêu cầu mượn sách</h3>
+        @using (Html.BeginForm("SubmitYeuCauMuonSach", "DocGia", FormMethod.Post))
+        {
+            <div class="form-group">
+                <label for="TenSach">Tên Sách:</label>
+                <select id="TenSach" name="MaSach" class="form-control" required>
+                    <option value="">Chọn sách</option>
+                    @foreach (var sach in sachList)
+                    {
+                        <option value="@sach.MaSach">@sach.TenSach</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="MaDocGia">Mã độc giả:</label>
+                <input type="text" id="MaDocGia" name="MaDocGia" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="NgayMuon">Ngày Mượn:</label>
+                <input type="date" id="NgayMuon" name="NgayMuon" class="form-control" value="@today" required />
+            </div>
+            <div class="form-group">
+                <label for="NgayTra">Ngày Trả:</label>
+                <input type="date" id="NgayTra" name="NgayTra" class="form-control" required />
+            </div>
+            <button type="submit" class="btn btn-primary">Gửi Yêu Cầu</button>
+        }
+    </div>
+
+    <!-- Form Mượn sách -->
+    <div class="col-md-6">
+        <h3>Thực hiện mượn sách</h3>
+        <form method="post" action="/PhieuMuon/MuonSach">
+            <input type="hidden" name="MaDocGia" value="1" /> <!-- Ví dụ: Độc giả ID 1 -->
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Tên sách</th>
+                        <th>Số lượng còn lại</th>
+                        <th>Số lượng muốn mượn</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in chiTietMuon)
+                    {
+                        <tr>
+                            <td>@item.TenSach</td>
+                            <td>@item.SoLuong</td>
+                            <td>
+                                <input type="number" name="ChiTietMuon[@item.MaSach].SoLuongMuon" min="0" max="@item.SoLuong" value="0" />
+                                <input type="hidden" name="ChiTietMuon[@item.MaSach].MaSach" value="@item.MaSach" />
+                                <input type="hidden" name="ChiTietMuon[@item.MaSach].TenSach" value="@item.TenSach" />
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <button type="submit" class="btn btn-primary">Mượn sách</button>
+        </form>
+    </div>
+</div>
+
+@if (TempData["Message"] != null)
+{
+    <p class="text-success">@TempData["Message"]</p>
+}

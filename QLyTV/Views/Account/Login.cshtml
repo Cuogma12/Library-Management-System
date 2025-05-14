@@ -1,0 +1,145 @@
+﻿@using QLyTV.Models
+@model List<RoleModel>
+
+@{
+    Layout = "~/Views/Shared/_NewLayout2.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f4f7fc;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .login-container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+            .login-container h2 {
+                font-size: 24px;
+                margin-bottom: 20px;
+                color: #333;
+            }
+
+        .input-field, .role-select {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+            color: #333;
+        }
+
+            .input-field:focus, .role-select:focus {
+                border-color: #4CAF50;
+                outline: none;
+            }
+
+        .submit-button {
+            width: 100%;
+            padding: 12px;
+            background-color: #4CAF50;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+            .submit-button:hover {
+                background-color: #45a049;
+            }
+
+        .signup-link {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+            .signup-link a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                .signup-link a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <h2>Đăng Nhập</h2>
+        <form id="formDangNhap" class="registration-form">
+            <div>
+                <label for="email">Email:</label>
+                <input type="text" id="email" name="email" class="input-field" placeholder="Tên tài khoản" required />
+            </div>
+            <div>
+                <label for="password">Mật khẩu:</label>
+                <input type="password" id="password" name="password" class="input-field" placeholder="Mật khẩu" required />
+            </div>
+            <div>
+                <label for="roleId">Vai trò:</label>
+                <select id="roleId" name="roleId" class="role-select" required>
+                    @foreach (var item in Model)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+            </div>
+            <button type="submit" class="submit-button">Đăng Nhập</button>
+        </form>
+        <div class="signup-link">
+            <p>Bạn chưa có tài khoản? <a href="@Url.Action("Register", "Account")">Đăng ký ngay</a></p>
+        </div>
+    </div>
+
+    <script src="~/Scripts/jquery-3.7.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#formDangNhap').submit(function (e) {
+                e.preventDefault();
+
+                var formData = $(this).serialize();
+
+                console.log(formData);
+
+                $.ajax({
+                    url: '@Url.Action("postLogin", "Account")',
+                    type: 'POST',
+                    data: formData,
+                    success: function (response) {
+                        if (response.success) {
+                            window.location.href = '@Url.Action("Index", "Home")'; // Chuyển hướng theo vai trò
+                        } else {
+                            alert(response.message);
+                        }
+                    },
+                    error: function () {
+                        alert("Có lỗi xảy ra. Vui lòng thử lại.");
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

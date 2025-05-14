@@ -1,0 +1,124 @@
+﻿@model List<PhieuMuon>
+@using QLyTV.Models
+
+
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        .nav-link {
+            display: flex;
+            align-items: center;
+        }
+
+        .nav-icon {
+            margin-right: 5px;
+        }
+
+        .table {
+            width: 100%;
+            margin-bottom: 1rem;
+            color: #212529;
+        }
+
+            .table th, .table td {
+                padding: 0.75rem;
+                vertical-align: top;
+                border-top: 1px solid #dee2e6;
+            }
+
+            .table thead th {
+                vertical-align: bottom;
+                border-bottom: 2px solid #dee2e6;
+            }
+
+            .table tbody + tbody {
+                border-top: 2px solid #dee2e6;
+            }
+
+            .table .table {
+                background-color: #fff;
+            }
+
+        .table-sm th, .table-sm td {
+            padding: 0.3rem;
+        }
+
+        .table-bordered {
+            border: 1px solid #dee2e6;
+        }
+
+            .table-bordered th, .table-bordered td {
+                border: 1px solid #dee2e6;
+            }
+
+        .table-hover tbody tr:hover {
+            background-color: #f5f5f5;
+        }
+
+        .btn {
+            padding: 0.375rem 0.75rem;
+            font-size: 0.875rem;
+            line-height: 1.5;
+            border-radius: 0.25rem;
+            cursor: pointer;
+        }
+
+        .btn-primary {
+            color: #fff;
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+
+            .btn-primary:hover {
+                color: #fff;
+                background-color: #0069d9;
+                border-color: #0062cc;
+            }
+    </style>
+
+<body>
+    <h2>Lịch sử mượn sách của bạn</h2>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>ID Phiếu mượn</th>
+                <th>Tên sách</th>
+                <th>Ngày mượn</th>
+                <th>Ngày trả dự kiến</th>
+                <th>Trạng thái</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var phieuMuon in Model)
+            {
+                <tr>
+                    <td>@phieuMuon.MaPhieuMuon</td>
+                    <td>@phieuMuon.Sach.TenSach</td>
+                    <td>@phieuMuon.NgayMuon.ToString("dd/MM/yyyy")</td>
+                    <td>@(phieuMuon.NgayTraDuKien.ToString("dd/MM/yyyy") ?? "")</td>
+                    <td>@(phieuMuon.isDelete ? "Đã trả" : "Chưa trả ")</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</body>
+</html>

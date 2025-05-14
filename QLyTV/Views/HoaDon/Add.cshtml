@@ -1,0 +1,31 @@
+﻿
+@model QLyTV.Models.HoaDon
+@{
+    ViewBag.Title = "Thêm Hóa Đơn";
+}
+
+<h2>Thêm Hóa Đơn Mới</h2>
+<form action="/HoaDon/PostCreate" method="post">
+    <label for="MaThuThu">Mã Thủ Thư</label>
+    <input type="text" name="MaThuThu" required value="@Model.MaThuThu" readonly class="form-control" />
+
+    <label for="MaPhieuMuon">Mã Phiếu Mượn</label>
+    <input type="text" name="MaPhieuMuon" required value="@Model.MaPhieuMuon" readonly class="form-control" />
+
+    <label for="PhiPhat">Phí Phạt</label>
+    <input type="number" name="PhiPhat" required value="@Model.PhiPhat" readonly class="form-control" />
+
+    <label for="PhiMuon">Phí Mượn</label>
+    <input type="number" name="PhiMuon" required value="@Model.PhiMuon" readonly class="form-control" />
+
+    <label for="NgayMuon">Ngày Mượn</label>
+    <input type="date" name="NgayMuon" required value="@Model.NgayMuon.ToString("yyyy-MM-dd")" readonly class="form-control" />
+
+    <label for="NgayTra">Ngày Trả</label>
+    <input type="date" name="NgayTra" value="@(Model.NgayTra.HasValue ? Model.NgayTra.Value.ToString("yyyy-MM-dd") : "")" readonly class="form-control" />
+
+    <input type="submit" value="Thêm"/>
+    <button><a href="/PhieuMuon/ChiTiet/@Model.MaPhieuMuon">Quay lại </a></button>
+</form>
+
+

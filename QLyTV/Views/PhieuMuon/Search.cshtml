@@ -1,0 +1,74 @@
+﻿@model IEnumerable<QLyTV.Models.PhieuMuon>
+@{
+    ViewBag.Title = "Tìm kiếm phiếu mượn";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Tìm kiếm phiếu mượn</h2>
+
+    <!-- Form tìm kiếm -->
+    <!-- Form tìm kiếm -->
+    <form id="searchForm" method="get" action="@Url.Action("Search", "PhieuMuon")" class="mb-4">
+        <div class="row g-3 align-items-center">
+            <div class="col-auto">
+                <label for="searchInput" class="col-form-label">Tìm kiếm</label>
+            </div>
+            <div class="col-auto">
+                <input type="text" id="searchInput" name="keyword" class="form-control" placeholder="Nhập mã phiếu mượn hoặc tên độc giả" value="@Request.QueryString["keyword"]" />
+            </div>
+            <div class="col-auto">
+                <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+            </div>
+        </div>
+    </form>
+
+    <!-- Kết quả tìm kiếm -->
+    @if (Model != null && Model.Any())
+    {
+        <h3 class="mb-3">Kết quả tìm kiếm</h3>
+        <table class="table table-bordered table-striped">
+            <thead class="table-light">
+                <tr>
+                    <th scope="col">Mã phiếu mượn</th>
+                    <th scope="col">Mã độc giả</th>
+                    <th scope="col">Tên độc giả</th>
+                    <th scope="col">Ngày mượn</th>
+                    <th scope="col">Ngày trả</th>
+                    <th scope="col">Trạng thái</th>
+                    <th scope="col">Trạng thái 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.MaPhieuMuon</td>
+                        <td>@item.MaDocGia</td>
+                        <td>
+                            @Html.ActionLink(item.User?.Name ?? "Chưa có tên", "ChiTiet", new { id = item.MaPhieuMuon }, new { @class = "text-decoration-none" })
+                        </td>
+                        <td>@item.NgayMuon.ToString("dd/MM/yyyy")</td> <!-- Định dạng ngày mượn -->
+                        <td>@(item.NgayTra.HasValue ? item.NgayTra.Value.ToString("dd/MM/yyyy") : "")</td> <!-- Định dạng ngày trả -->
+                        <td>
+                            <span class="badge @(item.isApproved ? "bg-success" : "bg-warning text-dark")">
+                                @(item.isApproved ? "Đã duyệt" : "Chờ duyệt")
+                            </span>
+                        </td>
+                        <td>
+                            <span class="badge @(item.isDelete ? "bg-success" : "bg-warning text-dark")">
+                                @(item.isDelete ? "Đã trả" : "Chưa trả")
+                            </span>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else if (!string.IsNullOrEmpty(Request.QueryString["keyword"]))
+    {
+        <div class="alert alert-warning" role="alert">
+            Không tìm thấy phiếu mượn phù hợp với từ khóa <strong>"@Request.QueryString["keyword"]"</strong>.
+        </div>
+    }
+
+</div>

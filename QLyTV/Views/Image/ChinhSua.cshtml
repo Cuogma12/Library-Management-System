@@ -1,0 +1,9 @@
+﻿@using (Html.BeginForm("ChinhSua", "NguoiDung", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-group">
+        <label for="hinhanh">Chọn ảnh:</label>
+        <input type="file" name="hinhanh" id="hinhanh" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Tải lên</button>
+}

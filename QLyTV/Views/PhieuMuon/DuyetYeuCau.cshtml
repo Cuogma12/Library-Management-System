@@ -1,0 +1,49 @@
+﻿@model IEnumerable<QLyTV.Models.PhieuMuon>
+
+<h2 style="text-align: center; color: #4CAF50;">Duyệt Yêu Cầu Mượn Sách</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 16px; text-align: left;">
+    <thead>
+        <tr style="background-color: #f2f2f2; color: #333;">
+            <th style="padding: 12px; border: 1px solid #ddd;">Mã Phiếu Mượn</th>
+            <th style="padding: 12px; border: 1px solid #ddd;">Mã Độc Giả</th>
+            <th style="padding: 12px; border: 1px solid #ddd;">Mã Sách</th>
+            <th style="padding: 12px; border: 1px solid #ddd;">Ngày Mượn</th>
+            <th style="padding: 12px; border: 1px solid #ddd;">Ngày Trả</th>
+            <th style="padding: 12px; border: 1px solid #ddd;">Hành Động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr style="border: 1px solid #ddd;">
+                <td style="padding: 12px; border: 1px solid #ddd;">@item.MaPhieuMuon</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">@item.MaDocGia</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">@item.MaSach</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">@item.NgayMuon.ToString("dd/MM/yyyy")</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">@item.NgayTra?.ToString("dd/MM/yyyy")</td>
+                <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
+                    <button style="background-color: #4CAF50; color: white; border: none; padding: 8px 12px; margin-right: 5px; cursor: pointer; border-radius: 4px;"
+                            onclick="approveRequest('@item.MaPhieuMuon', true)">
+                        Đồng ý
+                    </button>
+                    <button style="background-color: #f44336; color: white; border: none; padding: 8px 12px; cursor: pointer; border-radius: 4px;"
+                            onclick="approveRequest('@item.MaPhieuMuon', false)">
+                        Từ chối
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function approveRequest(maPhieuMuon, dongY) {
+        $.post('@Url.Action("DuyetYeuCau", "PhieuMuon")', { maPhieuMuon: maPhieuMuon, dongY: dongY })
+            .done(function () {
+                location.reload(); // Tải lại trang sau khi duyệt
+            })
+            .fail(function () {
+                alert("Đã xảy ra lỗi khi duyệt yêu cầu.");
+            });
+    }
+</script>

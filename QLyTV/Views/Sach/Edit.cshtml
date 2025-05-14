@@ -1,0 +1,76 @@
+﻿@model QLyTV.Models.Sach
+
+@{
+    ViewBag.Title = "Chỉnh Sửa Sách";
+}
+
+<h2>Chỉnh Sửa Sách</h2>
+
+<form id="formUpdate">
+
+    <input type="hidden" name="MaSach" value="@Model.MaSach" />
+
+    <div class="form-group">
+        <label for="TenSach">Tên sách:</label>
+        <input type="text" id="TenSach" name="TenSach" class="form-control" value="@Model.TenSach" required />
+    </div>
+
+    <div class="form-group">
+        <label for="TacGia">Tác giả:</label>
+        <input type="text" id="TacGia" name="TacGia" class="form-control" value="@Model.TacGia" required />
+    </div>
+
+    <div class="form-group">
+        <label for="NhaXuatBan">Nhà xuất bản:</label>
+        <input type="text" id="NhaXuatBan" name="NhaXuatBan" class="form-control" value="@Model.NhaXuatBan" required />
+    </div>
+
+    <div class="form-group">
+        <label for="TheLoai">Thể loại:</label>
+        <input type="text" id="TheLoai" name="TheLoai" class="form-control" value="@Model.TheLoai" required />
+    </div>
+
+    <div class="form-group">
+        <label for="SoLuong">Số lượng:</label>
+        <input type="text" id="SoLuong" name="SoLuong" class="form-control" value="@Model.SoLuong" required />
+    </div>
+
+    <div class="form-group">
+        <label for="TrangThai">Trạng thái:</label>
+        <input type="text" id="TrangThai" name="TrangThai" class="form-control" value="@Model.TrangThai" required />
+    </div>
+
+
+
+   
+    <button type="submit" class="btn btn-primary">Cập Nhật Sách</button>
+</form>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  $(document).ready(function () {
+    $('#formUpdate').submit(function (event) {
+        event.preventDefault(); // Ngăn form submit theo cách thông thường
+
+        var formData = $(this).serialize(); // Thu thập dữ liệu từ form
+
+        $.ajax({
+            type: 'POST',
+            url: '/Sach/Update',
+            data: formData,
+            success: function (response) {
+                if (response.success) {
+                    alert(response.message);
+                    window.location.href = '/Sach/Index';
+                } else {
+                    $('#message').html(response.message);
+                }
+            },
+            error: function () {
+                var response = JSON.parse(xhr.responseText);
+                $('#message').html(response.message);
+            }
+        });
+    });
+  });
+</script>

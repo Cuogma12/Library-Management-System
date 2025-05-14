@@ -1,0 +1,81 @@
+﻿@model QLyTV.Models.ThongKeDoanhThuViewModel
+@{
+    ViewBag.Title = "Thống kê doanh thu";
+}
+<h2>Thống kê doanh thu</h2>
+
+<form method="post" action="@Url.Action("ThongKeDoanhThu", "ThongKe")">
+    <label for="fromDate">Từ ngày:</label>
+    <input type="date"
+           id="fromDate"
+           name="fromDate"
+           value="@(Model.FromDate.HasValue ? Model.FromDate.Value.ToString("yyyy-MM-dd") : "")" />
+
+    <label for="toDate">Đến ngày:</label>
+    <input type="date"
+           id="toDate"
+           name="toDate"
+           value="@(Model.ToDate.HasValue ? Model.ToDate.Value.ToString("yyyy-MM-dd") : "")" />
+
+    <button type="submit">Thống kê</button>
+</form>
+
+<table border="1" style="border-collapse: collapse; width: 100%; margin-top: 20px;">
+    <thead>
+        <tr>
+            <th>Doanh thu phí phạt</th>
+            <th>Doanh thu phí mượn</th>
+            <th>Tổng doanh thu</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.DoanhThuPhiPhat VND</td>
+            <td>@Model.DoanhThuPhiMuon VND</td>
+            <td>@Model.TongDoanhThu VND</td>
+        </tr>
+    </tbody>
+</table>
+
+<style>
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin-bottom: 20px;
+    }
+
+        form input, form button {
+            padding: 5px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+        }
+
+        form button {
+            cursor: pointer;
+        }
+
+    table {
+        width: 80%;
+        margin: auto;
+        border-collapse: collapse;
+        text-align: center;
+    }
+
+    thead {
+        background-color: #333;
+        color: white;
+    }
+
+    td, th {
+        padding: 10px;
+        border: 1px solid #ddd;
+    }
+</style>

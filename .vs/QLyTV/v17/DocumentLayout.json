@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\views\\phieumuon\\duyetyeucau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\views\\phieumuon\\duyetyeucau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\thuthucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\thuthucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\qlytv\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\qlytv\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\phieumuoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\phieumuoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\docgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\docgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|e:\\doanwebncao\\code\\qlytvminh6 (khong hasvalue)\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\models\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\models\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\qlytv\\views\\phieumuon\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\views\\phieumuon\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\qlytv\\views\\sach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\views\\sach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\qlytv\\views\\sach\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\views\\sach\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuyetYeuCau.cshtml",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\PhieuMuon\\DuyetYeuCau.cshtml",
+              "RelativeDocumentMoniker": "QLyTV\\Views\\PhieuMuon\\DuyetYeuCau.cshtml",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\PhieuMuon\\DuyetYeuCau.cshtml",
+              "RelativeToolTip": "QLyTV\\Views\\PhieuMuon\\DuyetYeuCau.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T05:06:37.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLyTV\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLyTV\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIYAAAAAAAAAAAArwKwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T05:01:42.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocGiaController.cs",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\DocGiaController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\DocGiaController.cs",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\DocGiaController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\DocGiaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:54:04.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:53:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhieuMuonController.cs",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\PhieuMuonController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\PhieuMuonController.cs",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\PhieuMuonController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\PhieuMuonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:25:23.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\ThongKeController.cs",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\ThongKeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:50:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Sach\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLyTV\\Views\\Sach\\Index.cshtml",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Sach\\Index.cshtml",
+              "RelativeToolTip": "QLyTV\\Views\\Sach\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:32:09.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\SachController.cs",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\SachController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\SachController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:20:02.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThuThuController.cs",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\ThuThuController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\ThuThuController.cs",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\ThuThuController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\ThuThuController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:54:27.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\HoaDonController.cs",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:54:03.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:54:10.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\ImageController.cs",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:54:14.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Models\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "QLyTV\\Models\\DataClasses1.dbml",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Models\\DataClasses1.dbml",
+              "RelativeToolTip": "QLyTV\\Models\\DataClasses1.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-12-20T04:52:38.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\PhieuMuon\\Add.cshtml",
+              "RelativeDocumentMoniker": "QLyTV\\Views\\PhieuMuon\\Add.cshtml",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\PhieuMuon\\Add.cshtml",
+              "RelativeToolTip": "QLyTV\\Views\\PhieuMuon\\Add.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T18:26:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Sach\\Add.cshtml",
+              "RelativeDocumentMoniker": "QLyTV\\Views\\Sach\\Add.cshtml",
+              "ToolTip": "E:\\Doanwebncao\\Code\\QLyTVMinh6 (khong hasvalue)\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Sach\\Add.cshtml",
+              "RelativeToolTip": "QLyTV\\Views\\Sach\\Add.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:21:37.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

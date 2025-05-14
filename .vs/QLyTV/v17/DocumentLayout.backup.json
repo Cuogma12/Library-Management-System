@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|c:\\users\\admin\\source\\repos\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\phieumuoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\phieumuoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|c:\\users\\admin\\source\\repos\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\views\\phieumuon\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\views\\phieumuon\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|c:\\users\\admin\\source\\repos\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\views\\sach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\views\\sach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|c:\\users\\admin\\source\\repos\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|c:\\users\\admin\\source\\repos\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|c:\\users\\admin\\source\\repos\\qlytvminh5 (khong hasvalue)\\qlytv\\qlytv\\views\\sach\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C52339-91FB-41BF-BCC8-70630EE2B7A9}|QLyTV\\QLyTV.csproj|solutionrelative:qlytv\\views\\sach\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\PhieuMuon\\Add.cshtml",
+              "RelativeDocumentMoniker": "QLyTV\\Views\\PhieuMuon\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\PhieuMuon\\Add.cshtml",
+              "RelativeToolTip": "QLyTV\\Views\\PhieuMuon\\Add.cshtml",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T18:26:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhieuMuonController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\PhieuMuonController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\PhieuMuonController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\PhieuMuonController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\PhieuMuonController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAowIsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:25:23.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\ThongKeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\ThongKeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:50:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Sach\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLyTV\\Views\\Sach\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Sach\\Index.cshtml",
+              "RelativeToolTip": "QLyTV\\Views\\Sach\\Index.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwGAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:32:09.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Sach\\Add.cshtml",
+              "RelativeDocumentMoniker": "QLyTV\\Views\\Sach\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Views\\Sach\\Add.cshtml",
+              "RelativeToolTip": "QLyTV\\Views\\Sach\\Add.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:21:37.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "QLyTV\\Controllers\\SachController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLyTVMinh5 (khong hasvalue)\\QLyTV\\QLyTV\\Controllers\\SachController.cs",
+              "RelativeToolTip": "QLyTV\\Controllers\\SachController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:20:02.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

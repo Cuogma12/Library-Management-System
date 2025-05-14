@@ -1,0 +1,137 @@
+﻿<style>
+    /* CSS cho các input và select */
+    input[type="text"], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    h2 {
+        font-size: 24px; /* Kích thước font */
+        font-weight: bold; /* Cỡ chữ đậm */
+        color: #333; /* Màu chữ tối */
+        text-align: center; /* Căn giữa tiêu đề */
+        margin-bottom: 20px; /* Khoảng cách dưới tiêu đề */
+        border-bottom: 2px solid #4CAF50; /* Dưới tiêu đề có đường viền xanh lá mạ */
+        padding-bottom: 5px; /* Khoảng cách giữa chữ và đường viền dưới */
+    }
+
+
+    /* CSS cho nút submit */
+    button[type="submit"] {
+        width: 20%;
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        /* Hiệu ứng khi hover nút submit */
+        button[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+    /* CSS cho phần div chứa form */
+    #editForm {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+    }
+</style>
+<h2>Sửa thông tin tài khoản</h2>
+<form id="editForm" method="post" action="/DocGia/EditDocGia" enctype="multipart/form-data">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <div class="form-group">
+        <label for="UserName">Tên tài khoản:</label>
+        <input type="text" id="UserName" name="UserName" class="form-control" value="@Model.UserName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Họ Tên:</label>
+        <input type="text" id="Name" name="Name" class="form-control" value="@Model.Name" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Password">Mật khẩu (nếu muốn thay đổi):</label>
+        <input type="password" id="Password" name="Password" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="repassword">Xác nhận mật khẩu:</label>
+        <input type="password" id="repassword" name="repassword" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" name="Email" class="form-control" value="@Model.Email" required />
+    </div>
+    <div class="form-group">
+        <label for="Address">Địa chỉ:</label>
+        <input type="text" id="Address" name="Address" class="form-control" value="@Model.Address" required />
+    </div>
+    <div class="form-group">
+        <label for="PhoneNumber">Số điện thoại:</label>
+        <input type="text" id="PhoneNumber" name="PhoneNumber" class="form-control" value="@Model.PhoneNumber" required />
+    </div>
+    <div class="form-group">
+        <label for="Identification">CCCD:</label>
+        <input type="text" id="Identification" name="Identification" class="form-control" value="@Model.Identification" required />
+    </div>
+    <div class="form-group">
+        <label for="Password">Mật khẩu (nếu muốn thay đổi):</label>
+        <input type="password" id="Password" name="Password" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="repassword">Xác nhận mật khẩu:</label>
+        <input type="password" id="repassword" name="repassword" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+</form>
+
+<div id="message"></div>
+
+<script src="~/Scripts/jquery-3.7.0.min.js"></script>
+<script>
+    $('#editForm').submit(function (e) {
+        e.preventDefault(); // Ngừng submit để không tải lại trang
+
+        var name = $('#Name').val(); // Lấy giá trị tên
+        if (name.trim() === "") {
+            alert("Tên không được để trống!");
+            return false;
+        }
+
+        var formData = new FormData(this); // Tạo FormData để gửi cả file và text
+
+        $.ajax({
+            type: 'POST',
+            url: '/DocGia/EditDocGia',
+            data: formData,
+            processData: false,
+            contentType: false,
+            success: function (response) {
+                if (response.success) {
+                    alert(response.message);
+                    window.location.href = '/DocGia/ListDocGia';
+                } else {
+                    $('#message').html(response.message);
+                }
+            },
+            error: function (xhr, status, error) {
+                var response = JSON.parse(xhr.responseText);
+                $('#message').html(response.message);
+            }
+        });
+    });
+
+
+</script>

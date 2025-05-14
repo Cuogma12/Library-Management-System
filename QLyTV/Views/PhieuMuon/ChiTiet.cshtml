@@ -1,0 +1,28 @@
+﻿@model QLyTV.Models.PhieuMuon
+
+<div class="container mt-5">
+    <h3>Chi tiết Phiếu Mượn</h3>
+    <p><strong>Mã phiếu:</strong> @Model.MaPhieuMuon</p>
+    <p><strong>Tên độc giả:</strong> @(Model.User != null ? Model.User.Name : "Không rõ")</p>
+    <p><strong>Ngày mượn:</strong> @Model.NgayMuon.ToString("dd/MM/yyyy")</p>
+    <p><strong>Ngày trả dự kiến:</strong> @(Model.NgayTraDuKien.ToString("dd/MM/yyyy") ?? "Chưa xác định")</p>
+
+    <h4>Sách đã mượn</h4>
+    <ul>
+        @if (Model.Sach != null)
+        {
+            <li>@Model.Sach.TenSach</li>
+        }
+        else
+        {
+            <li>Không có sách</li>
+        }
+    </ul>
+
+    @using (Html.BeginForm("XuatHoaDon", "PhieuMuon", FormMethod.Post))
+    {
+        @Html.Hidden("id", Model.MaPhieuMuon)
+        <button type="submit" class="btn btn-primary">Xuất hóa đơn</button>
+    }
+</div>
+

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<QLyTV.Models.ThongKeSachViewModel>
+
+<h2 class="text-center">Thống Kê Sách</h2>
+
+<form method="post" action="@Url.Action("ThongKeSach", "ThongKe")">
+    <div style="text-align: center; margin-bottom: 20px;">
+        <input type="text" name="stringSearch" placeholder="Nhập tên hoặc mã sách"
+               value="@Request.QueryString["stringSearch"]" />
+        <button type="submit">Tìm kiếm</button>
+    </div>
+</form>
+
+<table class="custom-table">
+    <thead>
+        <tr>
+            <th>Mã Sách</th>
+            <th>Tên Sách</th>
+            <th>Số Lượng Ban Đầu</th>
+            <th>Số Lượng Đã Cho Mượn</th>
+            <th>Số Lượng Còn Lại</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaSach</td>
+                <td>@item.TenSach</td>
+                <td>@item.SoLuongBanDau</td>
+                <td>@item.SoLuongDaChoMuon</td>
+                <td>@item.SoLuongConLai</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<style>
+    .custom-table {
+        border: 1px solid #000;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        .custom-table th, .custom-table td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+
+        .custom-table th {
+            background-color: #343a40;
+            color: white;
+        }
+</style>

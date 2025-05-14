@@ -1,0 +1,41 @@
+﻿@model QLyTV.Models.HoaDonViewModel
+
+<div class="container">
+    <h3>Hóa đơn</h3>
+    <p><strong>Mã phiếu:</strong> @Model.MaPhieuMuon</p>
+    <p><strong>Tên độc giả:</strong> @(Model.TenDocGia ?? "Không rõ")</p>
+    <p><strong>Ngày mượn:</strong> @Model.NgayMuon</p>
+    <p><strong>Ngày trả dự kiến:</strong> @(Model.NgayTraDuKien.HasValue ? Model.NgayTraDuKien.Value.ToString("dd/MM/yyyy") : "Không rõ")</p>
+    <p><strong>Ngày trả thực tế:</strong> @(Model.NgayTraThucTe.HasValue ? Model.NgayTraThucTe.Value.ToString("dd/MM/yyyy") : "Chưa trả")</p>
+
+    <h4>Sách đã mượn</h4>
+    <ul>
+        @if (Model.TenSach != null)
+        {
+            <li>@Model.TenSach</li>
+        }
+        else
+        {
+            <li>Không có sách</li>
+        }
+    </ul>
+
+    <p><strong>Phí mượn:</strong> @Model.PhiMuon VND</p>
+    <p><strong>Phí phạt:</strong> @Model.PhiPhat VND</p>
+    <p><strong>Tổng chi phí:</strong> @Model.TongChiPhi VND</p>
+
+</div>
+
+
+<div class="container">
+    <form action="/HoaDon/Add" method="post" style="margin-top: 20px;">
+        <input type="hidden" name="MaThuThu" value="@Model.MaThuThu" /> <!-- Giả sử mã thủ thư là cố định -->
+        <input type="hidden" name="MaPhieuMuon" value="@Model.MaPhieuMuon" />
+        <input type="hidden" name="PhiPhat" value="@Model.PhiPhat" />
+        <input type="hidden" name="PhiMuon" value="@Model.PhiMuon" />
+        <input type="hidden" name="NgayMuon" value="@Model.NgayMuon.ToString("yyyy-MM-dd")" />
+
+        <button type="submit" class="btn btn-primary">Thêm hóa đơn</button>
+    </form>
+</div>
+

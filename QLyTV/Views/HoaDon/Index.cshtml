@@ -1,0 +1,188 @@
+﻿@model IEnumerable<QLyTV.Models.HoaDon>
+@{
+    ViewBag.Title = "Danh sách Hóa Đơn";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Danh sách Hóa Đơn</title>
+</head>
+<body>
+    <div class="row">
+
+        <div class="col-6">
+            <div class="input-group">
+                <input type="text" id="searchBox" class="form-control" placeholder="Tìm kiếm theo mã thủ thư hoặc mã phiếu mượn..." />
+                <button class="btn btn-primary" id="searchBtn">Tìm kiếm</button>
+            </div>
+        </div>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Mã Hóa Đơn</th>
+                <th>Mã Thủ Thư</th>
+                <th>Mã Phiếu Mượn</th>
+                <th>Phí Phạt</th>
+                <th>Phí Mượn</th>
+                <th>Ngày Mượn</th>
+                <th>Ngày Trả</th>
+              
+            </tr>
+        </thead>
+        <tbody id="tblBody">
+        </tbody>
+    </table>
+    <div class="row">
+        <div class="col-0">
+            <p>Chọn số lượng bản ghi:</p>
+            <select class="form-control" id="pageSize">
+                <option value="5" selected>5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+            </select>
+        </div>
+    </div>
+    <div id="paginate"></div>
+
+    <style>
+        .pagination-btn {
+            background-color: #007bff; /* Màu xanh dương */
+            color: white; /* Màu chữ */
+            border: none; /* Xóa đường viền */
+            border-radius: 5px; /* Bo góc */
+            padding: 10px 15px; /* Khoảng cách bên trong nút */
+            margin: 5px; /* Khoảng cách giữa các nút */
+            cursor: pointer; /* Hiển thị con trỏ chuột */
+            font-size: 16px; /* Cỡ chữ */
+            transition: background-color 0.3s, transform 0.2s; /* Hiệu ứng hover */
+        }
+
+            .pagination-btn:hover {
+                background-color: #0056b3; /* Đổi màu khi hover */
+                transform: scale(1.1); /* Phóng to khi hover */
+            }
+
+            .pagination-btn:active {
+                background-color: #003f7f; /* Đổi màu khi nhấn */
+                transform: scale(1.05); /* Giảm nhẹ hiệu ứng */
+            }
+    </style>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function loadHoaDon(crrPage) {
+            let pageSize = $("#pageSize").val();
+            let searchQuery = $("#searchBox").val();
+
+            $.ajax({
+                url: '@Url.Action("Paging","HoaDon")',
+                type: 'POST',
+                data: { crrPage: crrPage, pageSize: pageSize, searchQuery: searchQuery },
+                dataType: 'json',
+                success: function (response) {
+                    if (response.success) {
+                        const tbody = $("#tblBody");
+                        tbody.empty();
+
+                        function formatDate(dateString) {
+                            if (!dateString) return '';
+                            var date = new Date(dateString);
+                            return date.toLocaleDateString('vi-VN');
+                        }
+
+                        let data = response.data;
+                        let index = (crrPage - 1) * pageSize + 1;
+
+                        $.each(data, function (index, item) {
+                            var row = '<tr>' +
+                                '<td>' + item.MaHoaDon + '</td>' +
+                                '<td>' + item.MaThuThu + '</td>' +
+                                '<td>' + item.MaPhieuMuon + '</td>' +
+                                '<td>' + item.PhiPhat + '</td>' +
+                                '<td>' + item.PhiMuon + '</td>' +
+                                '<td>' + item.NgayMuon + '</td>' +
+                                '<td>' + (item.NgayTra ? item.NgayTra : "Chưa trả") + '</td>' +
+                                '<td>' +
+                                '</tr>';
+                            tbody.append(row);
+                        });
+
+                        setupPagination(response.totalPage, crrPage);
+                        attachEventHandlers();
+                    } else {
+                        alert(response.message);
+                    }
+                },
+                error: function () {
+                    alert("Có lỗi xảy ra khi tải dữ liệu.");
+                }
+            });
+        }
+
+        function setupPagination(totalPages, currentPage) {
+            let pagination = $("#paginate");
+            pagination.html(""); // Xóa phân trang cũ
+
+            if (currentPage > 1) {
+                pagination.append(`<button class="pagination-btn" onclick="loadHoaDon(${currentPage - 1})">Previous</button>`);
+            }
+
+            for (let i = 1; i <= totalPages; i++) {
+                if (i === currentPage) {
+                    pagination.append(`<button class="active pagination-btn">${i}</button>`);
+                } else {
+                    pagination.append(`<button class="pagination-btn" onclick="loadHoaDon(${i})">${i}</button>`);
+                }
+            }
+
+            if (currentPage < totalPages) {
+                pagination.append(`<button  onclick="loadHoaDon(${currentPage + 1})">Next</button>`);
+            }
+        }
+
+        //new
+        function attachEventHandlers() {
+            $('.delete-btn').click(function () {
+                var id = $(this).data('id');
+                deleteHoaDon(id);
+            });
+
+            $('.update-btn').click(function () {
+                var id = $(this).data('id');
+                if (id) {
+                    window.location.href = '/HoaDon/Edit/' + id;
+                } else {
+                    alert('Mã hóa đơn không hợp lệ.');
+                }
+            });
+        }
+
+      
+
+
+
+        $(document).ready(function () {
+            loadHoaDon(1); // Tải trang đầu tiên
+
+            // Thay đổi số lượng bản ghi
+            $("#pageSize").change(function () {
+                loadHoaDon(1);
+            });
+
+            // Tìm kiếm
+            $("#searchBtn").click(function () {
+                loadHoaDon(1);
+            });
+
+            // Tìm kiếm khi nhập từ khóa
+            $("#searchBox").on('input', function () {
+                loadHoaDon(1);
+            });
+        });
+    </script>
+</body>
+</html>

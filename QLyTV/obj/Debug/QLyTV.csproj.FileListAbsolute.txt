@@ -1,0 +1,1544 @@
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\QLyTV.dll.config
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\QLyTV.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\QLyTV.pdb
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.Helpers.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.Mvc.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.Optimization.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.Razor.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.WebPages.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\WebGrease.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.Optimization.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.Razor.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.WebPages.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.Up2Date
+C:\Users\Admin\source\repos\QLyTV\QLyTV\obj\Debug\QLyTV.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\obj\Debug\QLyTV.pdb
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Buffers.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Memory.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Identity.Client.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Buffers.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Collections.Immutable.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Memory.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Unity.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Unity.Container.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Unity.Mvc.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Unity.Mvc5.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\WebActivatorEx.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Unity.Abstractions.pdb
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Unity.Container.pdb
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Unity.Mvc.pdb
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Unity.Mvc.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Text.Json.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.ValueTuple.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Text.Json.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.ValueTuple.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Azure.Core.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Azure.Identity.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.ClientModel.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Memory.Data.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Security.AccessControl.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Security.Principal.Windows.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Azure.Core.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Azure.Identity.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.ClientModel.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Memory.Data.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Security.AccessControl.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Security.Permissions.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\System.Security.Principal.Windows.xml
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\BCrypt.Net-Next.dll
+C:\Users\Admin\source\repos\QLyTV\QLyTV\bin\BCrypt.Net-Next.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\QLyTV.dll.config
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\QLyTV.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\QLyTV.pdb
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csc.exe
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csc.exe.config
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csc.rsp
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csi.exe
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csi.exe.config
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csi.rsp
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.AppContext.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Collections.Immutable.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Console.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Globalization.Calendars.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Net.Http.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Net.Sockets.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.ValueTuple.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\vbc.exe
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\vbc.exe.config
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\vbc.rsp
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe.config
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Antlr3.Runtime.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Azure.Core.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Azure.Identity.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\BCrypt.Net-Next.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Web.Infrastructure.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Newtonsoft.Json.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Buffers.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.ClientModel.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Collections.Immutable.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.ComponentModel.Annotations.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Data.SqlClient.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Memory.Data.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Memory.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Numerics.Vectors.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.AccessControl.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Permissions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Principal.Windows.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Text.Encodings.Web.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Text.Json.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.ValueTuple.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Helpers.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Mvc.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Optimization.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Razor.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Abstractions.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Container.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Mvc.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Mvc5.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\WebActivatorEx.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\WebGrease.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Azure.Core.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Azure.Identity.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\BCrypt.Net-Next.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Buffers.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.ClientModel.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Collections.Immutable.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Data.SqlClient.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Memory.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Memory.Data.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Numerics.Vectors.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.AccessControl.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Permissions.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Principal.Windows.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Text.Encodings.Web.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Text.Json.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.ValueTuple.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Helpers.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Mvc.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Optimization.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Razor.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Newtonsoft.Json.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Abstractions.pdb
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Container.pdb
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Mvc.pdb
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Mvc.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Antlr3.Runtime.pdb
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.AssemblyReference.cache
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.CoreCompileInputs.cache
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.Up2Date
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.dll
+C:\Tong_hop_code\Web_nangcao\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.pdb
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\QLyTV.dll.config
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\QLyTV.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\QLyTV.pdb
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Azure.Core.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Azure.Identity.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\BCrypt.Net-Next.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.ClientModel.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Memory.Data.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Memory.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Text.Json.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.ValueTuple.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Abstractions.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Container.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Mvc.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Mvc5.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\WebActivatorEx.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\WebGrease.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Azure.Core.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Azure.Identity.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\BCrypt.Net-Next.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.ClientModel.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Collections.Immutable.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Data.SqlClient.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Memory.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Memory.Data.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.AccessControl.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Permissions.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Security.Principal.Windows.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Text.Encodings.Web.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Text.Json.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.ValueTuple.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Abstractions.pdb
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Container.pdb
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Mvc.pdb
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Unity.Mvc.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.Up2Date
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.dll
+C:\Users\Admin\Downloads\QLyTV (2)\QLyTV (2)\QLyTV\QLyTV\obj\Debug\QLyTV.pdb
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.pdb
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\QLyTV.dll.config
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\QLyTV.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\QLyTV.pdb
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Core.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Identity.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\BCrypt.Net-Next.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Buffers.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.ClientModel.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.Data.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.AccessControl.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Principal.Windows.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Json.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.ValueTuple.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Helpers.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Mvc.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Optimization.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Razor.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Container.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc5.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\WebActivatorEx.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\WebGrease.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Core.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Identity.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\BCrypt.Net-Next.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Buffers.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.ClientModel.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Collections.Immutable.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.Data.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.AccessControl.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Permissions.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Principal.Windows.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Json.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.ValueTuple.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Optimization.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Razor.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Abstractions.pdb
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Container.pdb
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc.pdb
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.Up2Date
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\QLyTV.dll.config
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\QLyTV.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\QLyTV.pdb
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csc.exe
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csc.exe.config
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csc.rsp
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csi.exe
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csi.exe.config
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csi.rsp
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.AppContext.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Console.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Net.Http.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.ValueTuple.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\vbc.exe
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\vbc.exe.config
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\vbc.rsp
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Antlr3.Runtime.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Core.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Identity.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\BCrypt.Net-Next.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Newtonsoft.Json.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Buffers.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.ClientModel.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Collections.Immutable.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.ComponentModel.Annotations.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Data.SqlClient.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.Data.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Numerics.Vectors.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.AccessControl.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Permissions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Principal.Windows.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Encodings.Web.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Json.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.ValueTuple.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Helpers.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Mvc.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Optimization.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Razor.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Abstractions.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Container.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc5.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\WebActivatorEx.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\WebGrease.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Core.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Identity.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\BCrypt.Net-Next.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Buffers.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.ClientModel.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Collections.Immutable.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Data.SqlClient.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.Data.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Numerics.Vectors.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.AccessControl.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Permissions.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Principal.Windows.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Encodings.Web.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Json.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.ValueTuple.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Helpers.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Mvc.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Optimization.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Razor.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Newtonsoft.Json.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Abstractions.pdb
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Container.pdb
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc.pdb
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Antlr3.Runtime.pdb
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.AssemblyReference.cache
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.CoreCompileInputs.cache
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.Up2Date
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.dll
+C:\Users\DUY TU\Downloads\QLyTVMinh2 (v2)\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.pdb
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.AssemblyReference.cache
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.CoreCompileInputs.cache
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.pdb
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\QLyTV.dll.config
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\QLyTV.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\QLyTV.pdb
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csc.exe
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csc.exe.config
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csc.rsp
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csi.exe
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csi.exe.config
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\csi.rsp
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.AppContext.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Collections.Immutable.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Console.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Globalization.Calendars.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Net.Http.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Net.Sockets.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.ValueTuple.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\vbc.exe
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\vbc.exe.config
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\vbc.rsp
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe.config
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Antlr3.Runtime.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Core.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Identity.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\BCrypt.Net-Next.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Web.Infrastructure.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Newtonsoft.Json.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Buffers.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.ClientModel.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Collections.Immutable.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.ComponentModel.Annotations.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Data.SqlClient.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.Data.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Numerics.Vectors.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.AccessControl.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Permissions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Principal.Windows.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Encodings.Web.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Json.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.ValueTuple.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Helpers.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Mvc.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Optimization.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Razor.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Abstractions.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Container.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc5.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\WebActivatorEx.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\WebGrease.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Core.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Azure.Identity.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\BCrypt.Net-Next.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Buffers.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.ClientModel.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Collections.Immutable.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Data.SqlClient.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Memory.Data.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Numerics.Vectors.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.AccessControl.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Permissions.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Security.Principal.Windows.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Encodings.Web.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Text.Json.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.ValueTuple.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Helpers.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Mvc.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Optimization.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.Razor.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Newtonsoft.Json.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Abstractions.pdb
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Container.pdb
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc.pdb
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Unity.Mvc.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Antlr3.Runtime.pdb
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Web nang cao\Do an\Final\QLyTVMinh2\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.Up2Date
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\QLyTV.dll.config
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\QLyTV.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\QLyTV.pdb
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Azure.Core.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Azure.Identity.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\BCrypt.Net-Next.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Buffers.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ClientModel.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Memory.Data.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Memory.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.AccessControl.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Principal.Windows.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Text.Json.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ValueTuple.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Helpers.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Mvc.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Optimization.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Razor.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Abstractions.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Container.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Mvc.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Mvc5.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\WebActivatorEx.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\WebGrease.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Azure.Core.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Azure.Identity.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\BCrypt.Net-Next.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Buffers.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ClientModel.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Collections.Immutable.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Memory.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Memory.Data.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.AccessControl.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Permissions.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Principal.Windows.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Text.Json.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ValueTuple.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Optimization.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Razor.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Abstractions.pdb
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Container.pdb
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Mvc.pdb
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Mvc.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.Up2Date
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.dll
+C:\Users\Admin\source\repos\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.pdb
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\QLyTV.dll.config
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\QLyTV.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\QLyTV.pdb
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csc.exe
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csc.exe.config
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csc.rsp
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csi.exe
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csi.exe.config
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\csi.rsp
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.AppContext.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Collections.Immutable.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Console.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Globalization.Calendars.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Net.Http.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Net.Sockets.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Reflection.Metadata.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.ValueTuple.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\vbc.exe
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\vbc.exe.config
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\vbc.rsp
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\roslyn\VBCSCompiler.exe.config
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Antlr3.Runtime.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Azure.Core.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Azure.Identity.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\BCrypt.Net-Next.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Web.Infrastructure.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Newtonsoft.Json.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Buffers.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ClientModel.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Collections.Immutable.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ComponentModel.Annotations.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Data.SqlClient.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Memory.Data.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Memory.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Numerics.Vectors.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.AccessControl.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Permissions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Principal.Windows.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Text.Encodings.Web.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Text.Json.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ValueTuple.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Helpers.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Mvc.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Optimization.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Razor.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Abstractions.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Container.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Mvc.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Mvc5.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\WebActivatorEx.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\WebGrease.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Azure.Core.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Azure.Identity.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\BCrypt.Net-Next.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.HashCode.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Bcl.TimeProvider.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Data.SqlClient.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Options.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Extensions.Primitives.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Abstractions.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Logging.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Buffers.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ClientModel.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Collections.Immutable.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Configuration.ConfigurationManager.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Data.SqlClient.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.IO.FileSystem.AccessControl.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Memory.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Memory.Data.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Numerics.Vectors.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.AccessControl.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Cryptography.ProtectedData.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Permissions.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Security.Principal.Windows.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Text.Encodings.Web.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Text.Json.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Threading.Tasks.Extensions.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.ValueTuple.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Helpers.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Mvc.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Optimization.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.Razor.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.Deployment.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\System.Web.WebPages.Razor.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Newtonsoft.Json.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Abstractions.pdb
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Container.pdb
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Mvc.pdb
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Unity.Mvc.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Antlr3.Runtime.pdb
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.AssemblyReference.cache
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.CoreCompileInputs.cache
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.csproj.Up2Date
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.dll
+E:\Doanwebncao\Code\QLyTVMinh6 (khong hasvalue)\QLyTVMinh5 (khong hasvalue)\QLyTV\QLyTV\obj\Debug\QLyTV.pdb

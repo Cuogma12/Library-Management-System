@@ -1,0 +1,447 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hệ thống quản lý thư viện</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/lib/plugins/fontawesome-free/css/all.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/lib/dist/css/adminlte.min.css">
+
+    <style>
+        /* General Styling */
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(to bottom, #f5f7fa, #e8eaed);
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Sidebar Styling */
+        .main-sidebar {
+            background: #2f3640;
+            color: #f5f6fa;
+            min-height: 100vh;
+            position: fixed;
+        }
+
+        .brand-link {
+            background: linear-gradient(45deg, #485563, #29323c);
+            color: #fff;
+            text-align: center;
+            padding: 15px 10px;
+            font-size: 1.2em;
+            border-bottom: 1px solid #333;
+        }
+
+        .sidebar .nav-link {
+            color: #dcdde1;
+            font-size: 0.95em;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+
+            .sidebar .nav-link:hover, .sidebar .nav-link.active {
+                background: #3b5998;
+                color: #f5f6fa;
+            }
+
+        /* Header Styling */
+        .main-header {
+            background: #34495e;
+            color: #ecf0f1;
+            padding: 10px 15px;
+            border-bottom: 1px solid #2c3e50;
+            z-index: 1030;
+            position: fixed;
+            width: calc(100% - 250px);
+            margin-left: 250px;
+        }
+
+        /* Footer Styling */
+        .main-footer {
+            background: #34495e;
+            color: #bdc3c7;
+            text-align: center;
+            font-size: 0.9em;
+            padding: 10px;
+            border-top: 1px solid #2c3e50;
+        }
+
+            .main-footer a {
+                color: #3498db;
+                text-decoration: none;
+            }
+
+        /* Content Styling */
+        .content-wrapper {
+            margin-left: 250px;
+            padding: 20px 30px;
+            background: #f5f7fa;
+            min-height: 100vh;
+        }
+
+        .content-header {
+            border-bottom: 2px solid #bdc3c7;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+        }
+
+            .content-header h1 {
+                color: #34495e;
+                font-size: 1.8em;
+            }
+
+        /* Breadcrumb */
+        .breadcrumb {
+            background: none;
+            padding: 0;
+            margin-bottom: 15px;
+            font-size: 0.9em;
+        }
+
+        .breadcrumb-item a {
+            color: #3498db;
+        }
+
+            .breadcrumb-item a:hover {
+                text-decoration: underline;
+            }
+
+        /* User Panel Styling */
+        .user-panel {
+            margin: 20px 15px;
+            color: #f5f6fa;
+            border-bottom: 1px solid #444;
+            padding-bottom: 15px;
+        }
+
+            .user-panel .info a {
+                font-size: 1em;
+                color: #f39c12;
+                text-decoration: none;
+            }
+
+                .user-panel .info a:hover {
+                    text-decoration: underline;
+                }
+
+        /* Navbar Styling */
+        .navbar {
+            background: #4a69bd;
+            color: white;
+        }
+
+        .navbar-brand {
+            color: #f5f6fa;
+        }
+
+            .navbar-brand:hover {
+                color: #f39c12;
+            }
+    </style>
+
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+    <div class="wrapper">
+
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="@Url.Action("Index", "Home")">Trang Chủ</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+        </nav>
+
+        <!-- Main Sidebar Container -->
+        <aside class="main-sidebar sidebar-dark-primary elevation-4">
+            <a href="index3.html" class="brand-link">
+        
+                <img src="~/Images/409399987_1346783822891712_5818300147635006018_n.jpg" alt="Admin Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+                <span class="brand-text font-weight-light">Quản lý thư viện</span>
+            </a>
+
+            <div class="sidebar">
+                <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                    <div class="image">
+                        <img src="~/Images/275281376_679918109806288_5467251326641586376_n.jpg" class="img-circle elevation-2" alt="User Image">
+                    </div>
+                    <div class="info">
+                        <!-- Hiển thị tên người dùng -->
+                        <a href="#" class="d-block" style='font-size:25px '>@Session["FullName"] </a>
+                    </div>
+                </div>
+
+                <!-- Sidebar Menu -->
+
+                <nav class="mt-2">
+                    <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+
+
+                        @if (Session["Role"] != null &&
+                        (Session["Role"].ToString() == QLyTV.Constants.RoleConstants.QuanLy ||
+                        Session["Role"].ToString() == QLyTV.Constants.RoleConstants.ThuThu))
+                        {
+                            <!-- Hóa đơn -->
+                            <li class="nav-item has-treeview">
+                                <a href="#" class="nav-link">
+                                    <i class="nav-icon fas fa-file-invoice"></i>
+                                    <p>Quản lý hóa đơn<i class="right fas fa-angle-left"></i></p>
+                                </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="~/HoaDon/Index" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Danh sách hóa đơn</p>
+                                        </a>
+                                    </li>
+                                   
+                                </ul>
+                            </li>
+                        }
+                        @if (Session["Role"] != null &&
+                        (Session["Role"].ToString() == QLyTV.Constants.RoleConstants.QuanLy ||
+                        Session["Role"].ToString() == QLyTV.Constants.RoleConstants.ThuThu))
+                        {
+
+                            <!-- Phiếu mượn -->
+                            <li class="nav-item has-treeview">
+                                <a href="#" class="nav-link">
+                                    <i class="nav-icon fas fa-file-alt"></i>
+                                    <p>Quản lý phiếu mượn<i class="right fas fa-angle-left"></i></p>
+                                </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="~/PhieuMuon/Index" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Danh sách phiếu mượn</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="~/PhieuMuon/Add" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Thêm phiếu mượn</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="~/PhieuMuon/DuyetYeuCau" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Duyệt yêu cầu</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="~/PhieuMuon/Search" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Trả sách</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        }
+
+                        @if (Session["Role"] != null &&
+                        (Session["Role"].ToString() == QLyTV.Constants.RoleConstants.QuanLy ||
+                        Session["Role"].ToString() == QLyTV.Constants.RoleConstants.ThuThu))
+                        {
+                            <li class="nav-item has-treeview">
+                                <a href="#" class="nav-link">
+                                    <i class="nav-icon fas fa-book-open"></i>
+                                    <p>Quản lý sách<i class="right fas fa-angle-left"></i></p>
+                                </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="~/Sach/Index" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Danh sách sách</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="~/Sach/Add" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Thêm sách</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        }
+                        @if (Session["Role"] != null &&
+                        (Session["Role"].ToString() == QLyTV.Constants.RoleConstants.QuanLy ||
+                           Session["Role"].ToString() == QLyTV.Constants.RoleConstants.ThuThu))
+                        {
+                            <li class="nav-item has-treeview">
+                                <a href="#" class="nav-link">
+                                    <i class="nav-icon fas fa-chart-bar"></i>
+
+
+                                    <p>Thống kê báo cáo<i class="right fas fa-angle-left"></i></p>
+                                </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="~/ThongKe/ThongKeSach" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Thống kê sách</p>
+                                        </a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a href="~/ThongKe/DocGiaDangMuon" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Độc giả đang mượn sách</p>
+                                        </a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a href="~/ThongKe/DocGiaNoSach" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Độc giả đang nợ sách</p>
+                                        </a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a href="~/ThongKe/ThongKeDoanhThu" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Doanh thu</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        }
+
+                        @if (Session["Role"] != null &&
+                          (Session["Role"].ToString() == QLyTV.Constants.RoleConstants.QuanLy ||
+                           Session["Role"].ToString() == QLyTV.Constants.RoleConstants.ThuThu))
+                        {
+                            <li class="nav-item has-treeview">
+                                <a href="#" class="nav-link">
+                                    <i class="nav-icon fas fa-user"></i>
+                                    <p>Quản lý độc giả<i class="right fas fa-angle-left"></i></p>
+                                </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="~/DocGia/ListDocGia" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Danh sách độc giả</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="~/DocGia/Add" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Thêm độc giả</p>
+                                        </a>
+                                    </li>
+                                    @*<li class="nav-item">
+                        <a href="~/DocGia/YeuCauMuonSach" class="nav-link">
+                            <i class="far fa-circle nav-icon"></i>
+                            <p>Yêu cầu mượn sách</p>
+                        </a>
+                        </a>
+                    </li>*@
+                                </ul>
+                            </li>
+                        }
+                        @if (Session["Role"] != null && Session["Role"].ToString() == QLyTV.Constants.RoleConstants.QuanLy)
+                        {
+                            <li class="nav-item has-treeview">
+                                <a href="#" class="nav-link">
+                                    <i class="nav-icon fas fa-user-tie"></i>
+                                    <p>Quản lý thủ thư<i class="right fas fa-angle-left"></i></p>
+                                </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="~/ThuThu/ListLibrarians" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Danh sách thủ thư</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="~/ThuThu/Add" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Thêm thủ thư</p>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </li>
+                        }
+                        @if (Session["Role"] != null && Session["Role"].ToString() == QLyTV.Constants.RoleConstants.DocGia)
+                        {
+                            <li class="nav-item has-treeview">
+                                <a href="~/Sach/Index" class="nav-link">
+                                    <i class="nav-icon fas fa-book"></i>
+                                    <p>Sách </p>
+                                </a>
+                            </li>
+                        }
+
+                        @if (Session["Role"] != null && Session["Role"].ToString() == QLyTV.Constants.RoleConstants.DocGia)
+                        {
+                            <li class="nav-item has-treeview">
+                                <a href="~/PhieuMuon/Add" class="nav-link">
+                                    <i class="nav-icon fas fa-book-reader"></i>
+                                    <p>Mượn sách </p>
+                                </a>
+                            </li>
+                        }
+                        @if (Session["Role"] != null && Session["Role"].ToString() == QLyTV.Constants.RoleConstants.DocGia)
+                        {
+                            <li class="nav-item has-treeview">
+                                <a href="~/Account/AccountInfo" class="nav-link">
+                                    <i class="fa fa-user-circle"></i>
+                                    <p>Thông tin tài khoản </p>
+                                </a>
+                            </li>
+                        }
+
+                        @if (Session["Role"] != null && Session["Role"].ToString() == QLyTV.Constants.RoleConstants.DocGia)
+                        {
+                            <li class="nav-item has-treeview">
+                                <a href="@Url.Action("LichSuMuonSach", "PhieuMuon")" class="nav-link">
+                                    <i class="nav-icon fas fa fa-eye"></i>
+                                    <p>Lịch sử mượn sách</p>
+                                </a>
+                            </li>
+                        }
+
+                        <li class="nav-item">
+                            <a href="@Url.Action("DangXuat", "Account")" class="nav-link">
+                                <i class="nav-icon fas fa-sign-out-alt"></i>
+                                <p>Đăng xuất</p>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </aside>
+
+        <!-- Content Wrapper -->
+        <div class="content-wrapper">
+            <div class="content-header">
+                <div class="container-fluid">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="main-footer">
+            <div class="float-right d-none d-sm-block">
+                <b>Version</b> 3.0.5
+            </div>
+            <strong>&copy; 2024 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
+        </footer>
+    </div>
+
+    <!-- jQuery -->
+    <script src="~/lib/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="~/lib/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/lib/dist/js/adminlte.min.js"></script>
+</body>
+</html>

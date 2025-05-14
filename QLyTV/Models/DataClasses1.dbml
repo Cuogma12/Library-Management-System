@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLYTV" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.ChiTietPhieuMuon" Member="ChiTietPhieuMuons">
+    <Type Name="ChiTietPhieuMuon">
+      <Column Name="MaPhieuMuon" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaSach" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="PhieuMuon_ChiTietPhieuMuon" Member="PhieuMuon" ThisKey="MaPhieuMuon" OtherKey="MaPhieuMuon" Type="PhieuMuon" IsForeignKey="true" />
+      <Association Name="Sach_ChiTietPhieuMuon" Member="Sach" ThisKey="MaSach" OtherKey="MaSach" Type="Sach" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HoaDon" Member="HoaDons">
+    <Type Name="HoaDon">
+      <Column Name="MaHoaDon" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MaThuThu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaPhieuMuon" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PhiPhat" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="PhiMuon" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Column Name="NgayMuon" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="NgayTra" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="PhieuMuon_HoaDon" Member="PhieuMuon" ThisKey="MaPhieuMuon" OtherKey="MaPhieuMuon" Type="PhieuMuon" IsForeignKey="true" />
+      <Association Name="User_HoaDon" Member="User" ThisKey="MaThuThu" OtherKey="Id" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PhieuMuon" Member="PhieuMuons">
+    <Type Name="PhieuMuon">
+      <Column Name="MaPhieuMuon" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MaThuThu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaDocGia" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MaSach" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NgayMuon" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="NgayTra" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="isApproved" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="NgayTraDuKien" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="isDelete" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="PhieuMuon_ChiTietPhieuMuon" Member="ChiTietPhieuMuons" ThisKey="MaPhieuMuon" OtherKey="MaPhieuMuon" Type="ChiTietPhieuMuon" />
+      <Association Name="PhieuMuon_HoaDon" Member="HoaDons" ThisKey="MaPhieuMuon" OtherKey="MaPhieuMuon" Type="HoaDon" />
+      <Association Name="Sach_PhieuMuon" Member="Sach" ThisKey="MaSach" OtherKey="MaSach" Type="Sach" IsForeignKey="true" />
+      <Association Name="User_PhieuMuon" Member="User" ThisKey="MaDocGia" OtherKey="Id" Type="User" IsForeignKey="true" />
+      <Association Name="User_PhieuMuon1" Member="User1" ThisKey="MaThuThu" OtherKey="Id" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Roles" Member="Roles">
+    <Type Name="Role">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Code" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CreatedDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CreatedBy" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ModifiedDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ModifiedBy" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Role_UserRole" Member="UserRoles" ThisKey="Id" OtherKey="RoleId" Type="UserRole" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sach" Member="Saches">
+    <Type Name="Sach">
+      <Column Name="MaSach" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenSach" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="TacGia" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NhaXuatBan" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TheLoai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TrangThai" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="NgayTao" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgaySua" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="Sach_ChiTietPhieuMuon" Member="ChiTietPhieuMuons" ThisKey="MaSach" OtherKey="MaSach" Type="ChiTietPhieuMuon" />
+      <Association Name="Sach_PhieuMuon" Member="PhieuMuons" ThisKey="MaSach" OtherKey="MaSach" Type="PhieuMuon" />
+      <Association Name="Sach_ThuThuSach" Member="ThuThuSaches" ThisKey="MaSach" OtherKey="MaSach" Type="ThuThuSach" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThuThuSach" Member="ThuThuSaches">
+    <Type Name="ThuThuSach">
+      <Column Name="MaThuThu" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaSach" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NgayQuanLy" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="Sach_ThuThuSach" Member="Sach" ThisKey="MaSach" OtherKey="MaSach" Type="Sach" IsForeignKey="true" />
+      <Association Name="User_ThuThuSach" Member="User" ThisKey="MaThuThu" OtherKey="Id" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.UserRoles" Member="UserRoles">
+    <Type Name="UserRole">
+      <Column Name="UserId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="RoleId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Role_UserRole" Member="Role" ThisKey="RoleId" OtherKey="Id" Type="Role" IsForeignKey="true" />
+      <Association Name="User_UserRole" Member="User" ThisKey="UserId" OtherKey="Id" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="User">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Identification" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CreatedDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CreatedBy" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ModifiedDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ModifiedBy" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="User_HoaDon" Member="HoaDons" ThisKey="Id" OtherKey="MaThuThu" Type="HoaDon" />
+      <Association Name="User_PhieuMuon" Member="PhieuMuons" ThisKey="Id" OtherKey="MaDocGia" Type="PhieuMuon" />
+      <Association Name="User_PhieuMuon1" Member="PhieuMuons1" ThisKey="Id" OtherKey="MaThuThu" Type="PhieuMuon" />
+      <Association Name="User_ThuThuSach" Member="ThuThuSaches" ThisKey="Id" OtherKey="MaThuThu" Type="ThuThuSach" />
+      <Association Name="User_UserRole" Member="UserRoles" ThisKey="Id" OtherKey="UserId" Type="UserRole" />
+    </Type>
+  </Table>
+</Database>

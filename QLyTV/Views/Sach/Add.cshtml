@@ -1,0 +1,46 @@
+﻿@model QLyTV.Models.Sach
+
+@{
+    ViewBag.Title = "Thêm Sách Mới";
+}
+
+<h2>Thêm Sách Mới</h2>
+
+<form action="/Sach/Create" method="post">
+
+
+    <div class="form-group">
+        <label>Tên Sách:</label>
+        <input type="text" name="TenSach" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Tác Giả:</label>
+        <input type="text" name="TacGia" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Nhà Xuất Bản:</label>
+        <input type="text" name="NhaXuatBan" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Thể Loại:</label>
+        <input type="text" name="TheLoai" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Số Lượng:</label>
+        <input type="number" name="SoLuong" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Trạng Thái:</label>
+        <input type="text" name="TrangThai" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ngày Tạo:</label>
+        <input type="date" name="NgayTao" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ngày Sửa:</label>
+        <input type="date" name="NgaySua" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Thêm Sách</button>
+</form>

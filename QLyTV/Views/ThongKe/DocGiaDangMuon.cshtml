@@ -1,0 +1,46 @@
+﻿@model IEnumerable<QLyTV.Models.DocGiaDangMuonViewModel>
+
+<h2>Danh Sách Độc Giả Đang Mượn Sách</h2>
+
+<form method="post" action="@Url.Action("DocGiaDangMuon", "ThongKe")">
+    <div style="text-align: center; margin-bottom: 20px;">
+        <input type="text" name="stringSearch" placeholder="Nhập tên độc giả"
+               value="@Request.QueryString["stringSearch"]" />
+        <button type="submit">Tìm kiếm</button>
+    </div>
+</form>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã Độc Giả</th>
+            <th>Tên Độc Giả</th>
+            <th>Tên Sách Đang Mượn</th>
+            <th>Ngày Mượn</th>
+            <th>Ngày Trả Dự Kiến</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaDocGia</td>
+                <td>@item.TenDocGia</td>
+                <td>@item.TenSach</td>
+                <td>@(item.NgayMuon.HasValue ? item.NgayMuon.Value.ToString("dd/MM/yyyy") : "N/A")</td>
+                <td>@(item.NgayTraDuKien.HasValue ? item.NgayTraDuKien.Value.ToString("dd/MM/yyyy") : "N/A")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<style>
+    h2, table {
+        text-align: center;
+    }
+
+        table thead {
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+</style>
